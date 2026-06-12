@@ -50,7 +50,7 @@ docker compose -f docker-compose.secrets.yml up -d
 docker inspect lemp-mysql
 ```
 
-![Screenshot](https://github.com/Dorian2115/lemp-project/blob/main/zrzutyEkranu/Zrzut%20ekranu_20260612_135423.png)
+![Screenshot](https://github.com/Dorian2115/lemp-project/blob/main/zrzutyEkranu/Zrzut%20ekranu_20260612_133926.png)
 
 MySQL przy pierwszym uruchomieniu inicjalizuje bazę i ustawia hasła. Przy
 kolejnym uruchomieniu ignoruje zmienne środowiskowe i sekrety, dlatego usuwamy
