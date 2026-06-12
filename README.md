@@ -56,3 +56,5 @@ MySQL przy pierwszym uruchomieniu inicjalizuje bazę i ustawia hasła. Przy
 kolejnym uruchomieniu ignoruje zmienne środowiskowe i sekrety, dlatego usuwamy
 wolumen przed uruchomieniem docker-compose.secrests.yml (w plikach secrets były
 podane inne hasła niż w wersji docker-compose.yml).
+
+Reszta zrzutów ekranu znajduje się w folderze zrzutyEkranu.
